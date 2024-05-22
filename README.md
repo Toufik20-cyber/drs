@@ -4,7 +4,7 @@ DRS System is a simple PWA (Progressive Web App) which can be used for umpire as
 
 ## Preview
 
-![App Screenshot](https://i.ibb.co/QvdfJ3r/Screenshot-2022-06-21-195103.png)
+
 
   
 ## Tech Stack
@@ -22,8 +22,8 @@ https://drs-system.netlify.app/
   
 ## Developer
 
-- [@kafle1](https://www.github.com/kafle1)
+- [Toufik](https://github.com/Toufik20-cyber)
 
 ## Support / Contact
 
-For support, email kafleniraj@gmail.com.
+For support, email toufikmahata20@gmail.com.
